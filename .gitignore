@@ -1,0 +1,15 @@
+# Analysis cache and temporary files
+.analysis_cache/
+.expanded_keywords.json
+
+# Python
+__pycache__/
+
+# Results and logs
+batch_1_results.json
+errors.log
+output.json
+
+# Data files
+files/
+keywords.txt
